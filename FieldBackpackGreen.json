@@ -1,0 +1,20 @@
+{
+    "Objects": [
+        {
+            "name": "AliceBag_Green",
+            "pos": [
+                9848.1015625,
+                194.019287109375,
+                10757.9150390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
