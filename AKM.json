@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "AKM",
+      "quantity": 1
+    },
+    {
+      "type": "Mag_AKM_Drum75Rnd",
+      "quantity": 1
+    },
+    {
+      "type": "AmmoBox_762x39_20Rnd",
+      "quantity": 1
+     },
+     {
+    }
+  ]
+}

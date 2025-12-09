@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "FAL",
+      "quantity": 1
+    },
+    {
+      "type": "Mag_FAL_20Rnd",
+      "quantity": 1
+    },
+    {
+      "type": "AmmoBox_308_20Rnd",
+      "quantity": 1
+     },
+     {
+    }
+  ]
+}

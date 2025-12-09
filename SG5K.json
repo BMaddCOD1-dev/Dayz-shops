@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "MP5K",
+      "quantity": 1
+    },
+    {
+      "type": "Mag_MP5_30Rnd",
+      "quantity": 1
+    },
+    {
+      "type": "AmmoBox_9x19_25rnd",
+      "quantity": 1
+     },
+     {
+    }
+  ]
+}

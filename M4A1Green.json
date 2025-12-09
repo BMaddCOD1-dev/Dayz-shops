@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "M4A1_Green",
+      "quantity": 1
+    },
+    {
+      "type": "Mag_STANAG_60Rnd",
+      "quantity": 1
+    },
+    {
+      "type": "AmmoBox_556x45_20Rnd",
+      "quantity": 3
+     },
+     {
+    }
+  ]
+}
