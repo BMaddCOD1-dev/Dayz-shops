@@ -1,0 +1,35 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Misc_SewerCover",
+            "pos": [
+                4570.81005859375,
+                339.0619812011719,
+                9600.9296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.4999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "AliceBag_Camo",
+            "pos": [
+                9848.1953125,
+                194.02920532226563,
+                10758.0439453125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

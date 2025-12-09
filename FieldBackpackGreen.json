@@ -1,0 +1,35 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Misc_SewerCover",
+            "pos": [
+                4570.81005859375,
+                339.0619812011719,
+                9600.9296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.4999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "AliceBag_Green",
+            "pos": [
+                9848.1015625,
+                194.019287109375,
+                10757.9150390625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

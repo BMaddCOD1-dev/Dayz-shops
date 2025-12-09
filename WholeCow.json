@@ -1,0 +1,275 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Misc_SewerCover",
+            "pos": [
+                4570.81005859375,
+                339.0619812011719,
+                9600.9296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.4999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.10546875,
+                194.07345581054688,
+                10758.6396484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.806640625,
+                194.06898498535157,
+                10758.5546875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.2607421875,
+                194.0901641845703,
+                10758.8583984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9847.9794921875,
+                194.0729522705078,
+                10758.6376953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.669921875,
+                194.06996154785157,
+                10758.5732421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.1533203125,
+                194.09068298339845,
+                10758.8681640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.8271484375,
+                194.08885192871095,
+                10758.8212890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.5556640625,
+                194.0706787109375,
+                10758.5869140625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.048828125,
+                194.09335327148438,
+                10758.908203125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.72265625,
+                194.08889770507813,
+                10758.8251953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.4423828125,
+                194.07138061523438,
+                10758.599609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.62109375,
+                194.08859252929688,
+                10758.8251953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.3271484375,
+                194.07322692871095,
+                10758.62890625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.498046875,
+                194.08766174316407,
+                10758.81640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.216796875,
+                194.0738983154297,
+                10758.6416015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowSteakMeat",
+            "pos": [
+                9848.376953125,
+                194.0893096923828,
+                10758.8427734375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Misc_SewerCover",
+            "pos": [
+                4570.81005859375,
+                339.0619812011719,
+                9600.9296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.4999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "AmmoBox_308Win_20Rnd",
+            "pos": [
+                9848.02734375,
+                194.1298828125,
+                10758.912109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                90.0
+            ],
+            "scale": 0.9999760389328003,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
